@@ -18,6 +18,12 @@ margin: auto;
 border-radius: 5px;
 box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.350);
 }
+#foto {
+    padding: 5px;
+}
+#res {
+    padding:0 5px;
+}
 footer {
 font-style: italic;
 text-align: center;
